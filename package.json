@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "description": "My attempt at solving the \"Order statistic of an unsorted array\" interview problem showcased at interviewing.io.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jerry Martinez",
+  "license": "ISC",
+  "homepage": "https://interviewing.io/recordings/Java-Google-1",
+  "devDependencies": {
+    "esm": "^3.0.84",
+    "mocha": "^5.2.0"
+  }
+}
